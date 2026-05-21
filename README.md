@@ -2,7 +2,7 @@
 ## Nikko R Asube ##
 **this is my hubby**
 <details>   
-## Nikko Asube ##
+ NIKKO ASUBE
 
 - playing moba
 - running
