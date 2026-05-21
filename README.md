@@ -1,5 +1,5 @@
 # **My portfolio**
-## Nikko R Asube. ##
+## Nikko R Asube ##
 **this is my hubby**
 <details>   
 # **Nikko Asube**
@@ -7,7 +7,7 @@
 - running
 </details>
 
-# ** My talent**
+# **My talent**
 - playing guitar
 - singing
 
