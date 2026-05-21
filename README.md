@@ -16,7 +16,11 @@
  - My name is Nikko Asube ,studying Information technology in FULLBRIGHT COLLAGE. 
 
    <details>
+
    <summary><b>View Achievement>
-   </ummary>
+
+   </summary>
+
     - being best 
+
    </details>
