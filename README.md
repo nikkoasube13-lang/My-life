@@ -2,12 +2,12 @@
 ## Nikko R Asube. ##
 **this is my hubby**
 <details>   
-**Nikko Asube**
+# **Nikko Asube**
 - playing moba
 - running
 </details>
 
-# ** my talent**
+# ** My talent**
 - playing guitar
 - singing
 
